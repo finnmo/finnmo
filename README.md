@@ -1,3 +1,5 @@
+Engineering + Comp Sci Student || IoT Technician
+
 Hello, My name is Finn Morris
 I am a current Curtin University Student completing a Mechatronic Engineering Honours and Computer Science Double Degree Major
 
