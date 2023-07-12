@@ -1,7 +1,7 @@
 Engineering + Comp Sci Student || IoT Technician
 
 
-# Hey guys! <img src="[https://raw.githubusercontent.com/finnmo/profile/master/wave.gif](https://github.com/finnmo/finnmo/blob/main/wave.gif)" width="30px">
+# Hey guys! <img src="https://github.com/finnmo/finnmo/blob/main/wave.gif" width="30px">
 
 Hello, My name is Finn Morris
 I am a current Curtin University Student completing a Mechatronic Engineering Honours and Computer Science Double Degree Major
