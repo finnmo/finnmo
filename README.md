@@ -1,4 +1,4 @@
-Engineering + Comp Sci Student || IoT Technician
+Engineering + Comp Sci || IoT Technician
 
 
 # Hey guys! <img src="https://github.com/finnmo/finnmo/blob/main/wave.gif" width="30px">
